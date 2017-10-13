@@ -1,7 +1,7 @@
 =================================================
 
 Program		:	Computerized Payroll System
-Author		:	Jhon Kenneth Cariño
+Author		:	NIT RAIPUR
 
 Special Thanks to:
 	PREMIERE COMPUTER LEARNING CENTER
@@ -22,6 +22,3 @@ Login:
 ==================================================
 
 
-For more info, just email me:
-	jkennethcarino@yahoo.com
-	fb.me/lnoskhen
