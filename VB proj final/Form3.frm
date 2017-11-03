@@ -84,6 +84,13 @@ Begin VB.Form Form3
       TabIndex        =   14
       Top             =   2040
       Width           =   5295
+      Begin VB.TextBox Text3 
+         Height          =   495
+         Left            =   2400
+         TabIndex        =   41
+         Top             =   480
+         Width           =   2535
+      End
       Begin VB.TextBox Text4 
          Height          =   495
          Left            =   2520

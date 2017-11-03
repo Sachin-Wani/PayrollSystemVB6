@@ -489,6 +489,26 @@ With DataEnvironment1.rsSearch
 
 If DataEnvironment1.rsSearch.EOF Then
 MsgBox "Record Of Employee Not Found"
+
+Text20.Text = ""
+Text17.Text = ""
+Text18.Text = ""
+Text1.Text = ""
+Text2.Text = ""
+Text19.Text = ""
+Text3.Text = ""
+Text4.Text = ""
+Text5.Text = ""
+Text6.Text = ""
+Text7.Text = ""
+Text13.Text = ""
+Text8.Text = ""
+Text9.Text = ""
+Text10.Text = ""
+Text11.Text = ""
+Text12.Text = ""
+Text14.Text = ""
+Text15.Text = ""
 Else
 MsgBox "Record Found"
 
@@ -534,4 +554,24 @@ End Sub
 Private Sub Command5_Click()
 DataEnvironment1.Delete Text16.Text
 MsgBox "Record Deleted"
+Text20.Text = ""
+Text17.Text = ""
+Text18.Text = ""
+Text1.Text = ""
+Text2.Text = ""
+Text19.Text = ""
+Text3.Text = ""
+Text4.Text = ""
+Text5.Text = ""
+Text6.Text = ""
+Text7.Text = ""
+Text13.Text = ""
+Text8.Text = ""
+Text9.Text = ""
+Text10.Text = ""
+Text11.Text = ""
+Text12.Text = ""
+Text14.Text = ""
+Text15.Text = ""
+Text16.Text = ""
 End Sub
